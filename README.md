@@ -12,6 +12,7 @@
 - ⚡ Fun fact: handsome boy
 
 
+📈 My GitHub Stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OxWarrior)](https://github.com/anuraghazra/github-readme-stats)
 
